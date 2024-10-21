@@ -1,2 +1,2 @@
-﻿# Primeiro Projeto Backend com TypeScript e JavaScript
-Este repositório contém meu primeiro projeto backend, desenvolvido como parte do meu aprendizado em TypeScript e JavaScript. 
+# First Backend Project with TypeScript and JavaScript
+This repository contains my first backend project, developed as part of my learning in TypeScript and JavaScript.
